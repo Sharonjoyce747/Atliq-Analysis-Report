@@ -42,10 +42,11 @@ EDA involved exploring the sales data to answer key business questions:
 
 ### Data Analysis
 
-Measures 
-- Attendance percentage: Attendace % = DIVIDE([Present Days],[Office Working days],0)
-- Work from home perecntage: WFH % = DIVIDE([WFH Count],'Measures (2)'[Present Days],0)
-- Sick leave percentage: SL % = DIVIDE('Measures (2)'[SL Count], [Office Working days])
+Uisng Powerbi
+
+- Attendance percentage: `Attendace % = DIVIDE([Present Days],[Office Working days],0)`
+- Work from home perecntage: `WFH % = DIVIDE([WFH Count],'Measures (2)'[Present Days],0)`
+- Sick leave percentage: `SL % = DIVIDE('Measures (2)'[SL Count], [Office Working days])`
 - Data modelling in Powerbi
 
 ### Results/Findings
